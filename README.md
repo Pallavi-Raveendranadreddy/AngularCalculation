@@ -244,3 +244,4 @@ export class AppModule { }
 ![math](https://user-images.githubusercontent.com/94294872/154123123-ead6921a-e614-4308-8c90-4d8bf41e0d92.PNG)
 
 ## Result:
+Thus the program to create mathcalculation using angular is completed successfully.
